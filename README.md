@@ -6,6 +6,7 @@ This site features:
 - Home Page
 - About Section
 - Experience Section
+- Project Section (coming soon...)
 - Contact Section
 
 ## Technologies Used
